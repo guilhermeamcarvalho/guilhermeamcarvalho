@@ -37,8 +37,8 @@ Aqui no GitHub compartilho minha evolução como desenvolvedor, projetos acadêm
 ## 📈 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default&color_title=007acc&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=default&color_title=007acc"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeamcarvalho&show_icons=true&theme=default&color_title=007acc&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeamcarvalho&layout=compact&langs_count=7&theme=default&color_title=007acc"/>
 </p>
 
 ---
