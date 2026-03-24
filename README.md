@@ -48,5 +48,5 @@ Aqui no GitHub compartilho minha evolução como desenvolvedor, projetos acadêm
 
 <p align="left">
   <a href="mailto:guimartinsc10@gmail.com"><img src="https://img.shields.io/badge/Email-007ACC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/guilherme-augusto-martins-de-carvalho-28010820a"><img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-augusto-martins-de-carvalho-28010820a"><img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
