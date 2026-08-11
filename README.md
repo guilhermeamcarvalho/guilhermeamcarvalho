@@ -53,9 +53,6 @@ auditoria e relatórios gerenciais.
 Sistema orientado a objetos aplicando design patterns (Decorator e Singleton),
 com foco em código modular e reutilizável.
 
-> _Adicione o link de cada repositório aqui assim que estiverem públicos._
-
----
 
 ## 📈 Estatísticas
 
