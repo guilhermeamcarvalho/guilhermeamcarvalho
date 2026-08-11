@@ -57,7 +57,7 @@ com foco em código modular e reutilizável.
 ## 📈 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeamcarvalho&show_icons=true&theme=default&title_color=007acc&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeamcarvalho&show_icons=true&theme=default&title_color=007acc"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeamcarvalho&layout=compact&langs_count=8&theme=default&title_color=007acc"/>
 </p>
 
