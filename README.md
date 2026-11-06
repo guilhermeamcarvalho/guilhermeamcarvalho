@@ -1,7 +1,6 @@
 # 💙 Olá, eu sou o Guilherme!
 
 * 🎓 Estudante de **Engenharia de Software** na PUC Minas
-* 💻 Foco em **back-end com Java / Spring Boot** e aplicações **full-stack**
 * 🚀 Evoluindo como desenvolvedor através de projetos práticos e automação
 
 ---
